@@ -9,6 +9,8 @@ This template was created to facilitate the creation of typescript projects.
 - ESlint
 - Prettier
 - Changesets
+- Jest
+- Tsup
 
 ## Settings
 
