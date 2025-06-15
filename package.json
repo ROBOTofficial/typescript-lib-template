@@ -6,6 +6,7 @@
 	"private": true,
 	"scripts": {
 		"start": "bun run src/index.ts",
+		"build": "tsup",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
 		"check": "tsc --noEmit",
